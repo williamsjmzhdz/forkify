@@ -10,8 +10,8 @@
   "author": "Williams Jiménez",
   "license": "ISC",
   "devDependencies": {
-    "@parcel/transformer-sass": "^2.10.2",
-    "parcel": "^2.0.0"
+    "parcel": "^2.0.0-beta.1",
+    "sass": "^1.26.10"
   },
   "dependencies": {
     "core-js": "^3.6.5",

@@ -3,6 +3,17 @@ import icons from 'url:../../img/icons.svg'; // For icons inside dist/
 export default class View {
   _data;
 
+  /**
+   * Renders the view based on the provided data.
+   *
+   * @param {Object | Array} data - The data to be rendered.
+   * @param {boolean} [render=true] - Indicates whether to render the data or not.
+   * @returns {string | undefined} - The generated markup if render is false.
+   * @this {Object} - The View Object itself.
+   * @Author Williams Jiménez
+   * @todo Finish implementation
+   */
+
   render(data, render = true) {
     if (!data || (Array.isArray(data) && data.length === 0)) {
       return this.renderError();

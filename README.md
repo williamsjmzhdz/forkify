@@ -1,6 +1,6 @@
 # Forkify
 
-![Forkify Logo]([insertar-url-del-logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fforkify-v2.netlify.app%2F&psig=AOvVaw0hz9DUj2a4g-MjzIACx35r&ust=1700166358874000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCMCWp7HrxoIDFQAAAAAdAAAAABAE))
+![Forkify Logo](https://forkify-v2.netlify.app/logo.09084f39.png)
 
 Forkify es una aplicación de recetas culinarias diseñada para entusiastas de la cocina y amantes de la gastronomía. Con una interfaz moderna y atractiva, Forkify te permite explorar una amplia variedad de recetas, guardar tus favoritas y seguir fácilmente las instrucciones para crear deliciosos platillos.
 

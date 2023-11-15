@@ -33,7 +33,6 @@ Si deseas contribuir a Forkify, sigue estos pasos:
 
 ## Enlaces
 
-- [Repositorio en GitHub](https://github.com/williamsjmzhdz/forkify)
 - [Sitio en Producción](https://forkify-williamsjmzhdz.netlify.app/)
 
 ## Licencia
